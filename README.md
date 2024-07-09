@@ -24,8 +24,14 @@
 
 # My Projects
 
-## Front end with HTML, CSS and a bit of JavaScript
+## Front end with HTML/CSS and a bit of JavaScript
 
 <a href="https://github.com/gusdkruger/liturgo-tattoo" title="Liturgo Tattoo" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gusdkruger&repo=liturgo-tattoo&theme=github_dark_dimmed" alt="Repository Liturgo Tattoo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gusdkruger&repo=liturgo-tattoo&theme=github_dark_dimmed" alt="Liturgo Tattoo repository">
+</a>
+
+## Full stack with HTML/CSS, PHP, MySQL and some client side JavaScript
+
+<a href="https://github.com/gusdkruger/wither" title="Wither" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gusdkruger&repo=wither&theme=github_dark_dimmed" alt="Whiter repository">
 </a>
