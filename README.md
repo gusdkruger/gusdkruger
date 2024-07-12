@@ -6,8 +6,6 @@
 
 🔭 You can also find me on <a href="https://www.linkedin.com/in/gusdkruger/" target="_blank">LinkedIn</a>
 
----
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusdkruger&layout=compact&langs_count=4&theme=github_dark_dimmed" width="400px" heigth="150px"/>
 
 ## Languages and Tools
@@ -22,15 +20,15 @@
 
 ---
 
-# My Projects
+# My Projects (Ordered by Creation)
 
-## Front end with HTML/CSS and a bit of JavaScript
+## Front end with HTML, CSS and a bit of JavaScript
 
 <a href="https://github.com/gusdkruger/liturgo-tattoo" title="Liturgo Tattoo" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gusdkruger&repo=liturgo-tattoo&theme=github_dark_dimmed" alt="Liturgo Tattoo repository">
 </a>
 
-## Full stack with HTML/CSS, PHP, MySQL and some client side JavaScript
+## Full stack with HTML, CSS, PHP, MySQL and some client side JavaScript
 
 <a href="https://github.com/gusdkruger/wither" title="Wither" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gusdkruger&repo=wither&theme=github_dark_dimmed" alt="Whiter repository">
