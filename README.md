@@ -20,15 +20,15 @@
 
 ---
 
-# My Projects (Ordered by Creation)
+# My Projects
 
-## Front end with HTML, CSS and a bit of JavaScript
+## HTML, CSS and a bit of JavaScript
 
 <a href="https://github.com/gusdkruger/liturgo-tattoo" title="Liturgo Tattoo" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gusdkruger&repo=liturgo-tattoo&theme=github_dark_dimmed" alt="Liturgo Tattoo repository">
 </a>
 
-## Full stack with HTML, CSS, PHP, MySQL and HTMX
+## HTMX, PHP and MySQL
 
 <a href="https://github.com/gusdkruger/wither" title="Wither" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gusdkruger&repo=wither&theme=github_dark_dimmed" alt="Whiter repository">
