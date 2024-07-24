@@ -2,7 +2,9 @@
 
 👋 My name is Gustavo Kruger
 
-🌱 My goal is to be a full stack web developer
+📈 My goal is to be a full stack web developer
+
+🌱 Currently studying at <a href="https://cursos.alura.com.br/user/gusdkruger" target="_blank">Alura</a> and <a href="https://www.linkedin.com/school/senac-rs/" target="_blank">Senac</a>
 
 🔭 You can also find me on <a href="https://www.linkedin.com/in/gusdkruger/" target="_blank">LinkedIn</a>
 
