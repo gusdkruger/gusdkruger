@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to my GitHub profile
 
-<!--
-**gusdkruger/gusdkruger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 My name is Gustavo Kruger
 
-Here are some ideas to get you started:
+🔭 You can also find me on <a href="https://www.linkedin.com/in/gusdkruger/" target="_blank">LinkedIn</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusdkruger&layout=compact&langs_count=4&theme=github_dark_dimmed" width="400px" heigth="150px"/>
+
+## Languages and Tools
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="60px" heigth="60px" title="HTML" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="60px" heigth="60px" title="CSS" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px" heigth="60px" title="JavaScript" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60px" heigth="60px" title="PHP" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60px" heigth="60px" title="MySQL" alt="MySQL"/>
+</div>
